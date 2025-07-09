@@ -1,0 +1,17 @@
+charge_id,multiple_rows,processor_name,scheduled_at,total_shipping,discount_code,shipping_lines,line_item_subscription_id
+888724541,True,shopify_payments,2024-08-21 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify"", ""status"": ""active"", ""tax_lines"": [], ""retrieved_at"": ""2023-08-21T02:14:10.903181""}]",357486159
+888724541,True,nan,nan,nan,nan,nan,357486161
+884769003,False,shopify_payments,2024-08-31 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify"", ""status"": ""active"", ""tax_lines"": [], ""retrieved_at"": ""2023-08-15T08:37:39.165742""}]",367509589
+882115842,False,shopify_payments,2024-09-06 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify"", ""tax_lines"": []}]",215351799
+819620082,True,shopify_payments,2024-09-07 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify""}]",256122743
+819620082,True,nan,nan,nan,nan,nan,330415169
+849341731,False,shopify_payments,2024-09-18 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify"", ""tax_lines"": []}]",374581959
+864397021,False,shopify_payments,2024-11-02 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify"", ""tax_lines"": []}]",370552433
+819628156,False,shopify_payments,2024-11-18 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify""}]",275462141
+827286145,False,shopify_payments,2024-11-30 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify""}]",207622601
+819619700,False,shopify_payments,2024-12-01 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify""}]",239346720
+819613775,False,shopify_payments,2025-02-28 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify""}]",257892099
+819630223,False,shopify_payments,2025-03-19 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify""}]",271365051
+835600953,False,shopify_payments,2025-05-13 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify"", ""price_set"": {""store_default"": {""amount"": ""0.00"", ""currency_code"": ""USD""}}, ""tax_lines"": [], ""description"": null}]",370886892
+868584058,False,shopify_payments,2025-07-27 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify"", ""tax_lines"": []}]",360476178
+882822251,False,shopify_payments,2025-08-15 00:00:00,0.0,[],"[{""code"": ""Free Shipping"", ""price"": 0, ""title"": ""Free Shipping"", ""source"": ""shopify"", ""price_set"": {""store_default"": {""amount"": ""0.00"", ""currency_code"": ""USD""}}, ""tax_lines"": [], ""description"": null}]",367667361

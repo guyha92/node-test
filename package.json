@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyha92/node-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guyha92/node-test/issues"
+  },
+  "homepage": "https://github.com/guyha92/node-test#readme",
   "description": ""
 }

@@ -16,5 +16,6 @@
     "url": "https://github.com/guyha92/node-test/issues"
   },
   "homepage": "https://github.com/guyha92/node-test#readme",
-  "description": ""
+  "description": "This is a Node.js project for the interview coding challenge."
+
 }
